@@ -14,8 +14,6 @@ For example,
 
 ```
 $>>echo "I'm a quine" > quine.glc;
-
 $>>./quinelang quine.glc
-
 I'm a quine
 ```
