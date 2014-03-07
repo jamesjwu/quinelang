@@ -12,8 +12,8 @@ Installing quinelang is as simple as cloning the git file, putting the executabl
 It's very easy to write QuineLang. Just make a file with extension ".glc", and compile it with the command: "./quinelang file.glc"
 For example,
 
-```python
-$>>echo "I'm a quine!" > quine.glc;
+```
+$>>echo "I'm a quine" > quine.glc;
 
 $>>./quinelang quine.glc
 
