@@ -57,11 +57,11 @@ With preprocessing, quinelang can solve subset sum, an NP complete problem, in c
 
 1. Take your input set (say [1,2,3,-6,8]) and your integer [5].
 2. Preprocess the input through a python or C subset sum calculator, and record the output. 
-3. Put the output into a file:
+3. Put the output into a file, and run it! Spectacular!
 ```
 [2,3]
 ```
-4. Run it with the quinelang compiler! Spectacular!
+
 
 
 
