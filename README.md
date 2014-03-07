@@ -37,7 +37,7 @@ To print the first 5 fibonacci numbers:
 1 1 2 3 5
 ```
 
-###Merge soft
+###Merge sort
 To write mergesort:
 
 1. Take your list of integers you'd like to sort
